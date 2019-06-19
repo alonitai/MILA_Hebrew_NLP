@@ -2,9 +2,10 @@
 Contains the tools developed by MILA - The Knowledge Center for processing Hebrew, Technion, ISRAEL
 
 Contains
-The Hebrew Lexicon in excel format -- does not include all fields. 
 
-The Hebrew Lexicon database.
+1. The Hebrew Lexicon in excel format -- does not include all fields. 
+
+2. The full Hebrew Lexicon mysql database (zipped).
 
 More coming.
 
